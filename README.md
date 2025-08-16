@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaishnavi Pattewar  
 
-🎓 **3rd Year Computer Science Student** | 💻 **Aspiring Software Developer** | 🌱 **Learning Machine Learning & Data Science**
+🎓 **3rd Year Computer Science Student** | 💻 **Aspiring Software Developer** | 🌱 **MERN Stack Developer**
 
 ---
 
